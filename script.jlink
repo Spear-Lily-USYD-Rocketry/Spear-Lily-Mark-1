@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "/home/thilanka/Documents/MCUXpresso_11.3.1_5262/workspace/spearlily_integration/Debug/spearlily_integration.hex"
+qc
+
+qc
